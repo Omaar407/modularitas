@@ -1,5 +1,5 @@
 <?php
-include("menu.php");
+require("menu.php");
 ?>
 <head>
     <title>Modularitas</title>
