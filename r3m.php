@@ -1,0 +1,14 @@
+<?php
+include("menu.php");
+?>
+<head>
+    <title>R3M_FBI</title>
+</head>
+<body>
+  <hr />
+  	<h1>R3M_FBI</h1><hr />
+	<h2 id="t1">Announcement</h2>
+	<p id="t1">"hidup butuh perjuangan dan perjuangan butuh pengorbanan" -R3M_FBI</p>
+
+</body>
+</html>
